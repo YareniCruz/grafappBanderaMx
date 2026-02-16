@@ -4,6 +4,7 @@ const sliderRojo = document.getElementById("rojo");
 const franjaVerde = document.getElementById("franjaVerde");
 const franjaRoja = document.getElementById("franjaRoja");
 
+
 const valorVerde = document.getElementById("valorVerde");
 const valorRojo = document.getElementById("valorRojo");
 
